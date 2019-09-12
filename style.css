@@ -3,7 +3,11 @@ body {
 
 }
 #wrapper{
-
+	width:90%;
+	height: auto;
+	margin: 12px;
+	padding: 12px;
+	background: teal;
 }
 
 #title {
@@ -27,5 +31,5 @@ body {
 }
 
 .circle-image{
-	
+
 }
